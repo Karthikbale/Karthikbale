@@ -1,12 +1,13 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik+Bale;AWS+%7C+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes;Always+Learning%2C+Always+Automating" alt="Typing animation" />
-##AWS DevOps MlOps  Kubernetes Docker Jenkins CI\CD##
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=90&lines=AWS+%7C+DevOps+%7C+Cloud;Automation+%7C+CI%2FCD;Kubernetes+%7C+Terraform" alt="Typing animation" />
+☁️ AWS DevOps Engineer | Cloud & Automation | CI/CD | Kubernetes
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikbale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-bale-b68064289)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikbale2002@gmail.com)
 
 
-</div>
+
+</div> <hr style="height:4px;border:none;background-color:#58A6FF;">
 
 ## 👨‍💻 About Me
 
