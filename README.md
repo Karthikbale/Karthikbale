@@ -1,5 +1,9 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik+Bale;AWS+%7C+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes;Always+Learning%2C+Always+Automating" alt="Typing animation" />
 
+GitHub LinkedIn Email
+
+</div>
+
 ## 👨‍💻 About Me
 
 I'm an **AWS DevOps Engineer** who enjoys turning manual, error-prone deployments into automated, reliable pipelines. I work across the full DevOps lifecycle — provisioning cloud infrastructure, containerizing applications, building CI/CD pipelines, and setting up monitoring so systems stay observable in production.
