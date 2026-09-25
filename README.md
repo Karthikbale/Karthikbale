@@ -82,6 +82,13 @@ I like solving real infrastructure problems: scaling APIs, securing pipelines, a
 
 ---
 
+## 🎓 Certifications
+<div align="center"> <a href="https://www.credly.com/badges/c05f0d35-5e28-4f35-8616-4436c3604acd/public_url"> <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="AWS Certified Cloud Practitioner" width="150"/> </a>
+
+AWS Certified Cloud Practitioner Amazon Web Services Training and Certification 🔗 Verify on Credly
+
+</div> <hr style="height:4px;border:none;background-color:#58A6FF;">
+
 ## 📊 GitHub Activity
 
 <div align="center">
