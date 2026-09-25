@@ -1,4 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik+Bale;AWS+%7C+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Kubernetes;Always+Learning%2C+Always+Automating" alt="Typing animation" />
+##AWS DevOps MlOps  Kubernetes Docker Jenkins CI\CD 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikbale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-bale-b68064289)
