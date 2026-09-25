@@ -96,8 +96,9 @@ I like solving real infrastructure problems: scaling APIs, securing pipelines, a
 
 ## 🎯 My DevOps Philosophy
 
-> **Automate the repetitive. Monitor what matters.**
-> **Ship with confidence. Keep learning.** 🚀
+> 
+> **Build it once. Automate it forever**.
+**Monitor everything. Trust the pipeline.** 🚀
 
 ---
 
